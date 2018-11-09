@@ -27,6 +27,7 @@ client.user.setGame("TOP");
 
 
 
+
 client.on("ready", () => {
 let channel =     client.channels.get("510213840068411413")
 setInterval(function() {
