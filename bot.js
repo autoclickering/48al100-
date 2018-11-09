@@ -55,3 +55,8 @@ setInterval(function() {
 channel.send('الله اكبر');
 }, 25)
 })
+
+
+
+client.login(process.env.BOT_TOKEN);
+
